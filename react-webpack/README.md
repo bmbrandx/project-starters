@@ -1,5 +1,4 @@
-<h4 align="center">Simple React Webpack Starter</h4>
-Basic React + Webpack project starter
+### Basic React + Webpack project starter</h4>
 
 - HMR supported
 - Fonts, SVG Icons, and Images supported
